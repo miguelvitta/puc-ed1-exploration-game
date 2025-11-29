@@ -1,4 +1,4 @@
-#include "display.h"
+#include "Display.h"
 
 /*
 Implement all output:

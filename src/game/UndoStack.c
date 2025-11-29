@@ -1,4 +1,4 @@
-#include "undostack.h"
+#include "UndoStack.h"
 
 /*
 Implement stack of GameState snapshots:

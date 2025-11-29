@@ -1,4 +1,4 @@
-#include "pathfinding.h"
+#include "Pathfinding.h"
 
 /*
 Implement BFS pathfinding:

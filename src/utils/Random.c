@@ -1,4 +1,4 @@
-#include "random.h"
+#include "Random.h"
 
 /*
 Implement random utilities:

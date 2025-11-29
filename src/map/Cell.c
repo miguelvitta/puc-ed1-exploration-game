@@ -1,4 +1,4 @@
-#include "cell.h"
+#include "Cell.h"
 
 /*
 Implement cell type utilities:

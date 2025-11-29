@@ -1,4 +1,4 @@
-#include "chest.h"
+#include "Chest.h"
 
 /*
 Implement chest creation and opening:

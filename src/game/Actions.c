@@ -1,4 +1,4 @@
-#include "actions.h"
+#include "Actions.h"
 
 /*
 Implement handling of player commands:

@@ -1,4 +1,4 @@
-#include "gamestate.h"
+#include "GameState.h"
 
 /*
 Implement complete game state snapshots:

@@ -1,4 +1,4 @@
-#include "maploader.h"
+#include "MapLoader.h"
 
 /*
 Implement map loading from file:

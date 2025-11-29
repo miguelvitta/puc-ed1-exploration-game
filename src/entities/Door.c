@@ -1,4 +1,4 @@
-#include "door.h"
+#include "Door.h"
 
 /*
 Implement door representation:
