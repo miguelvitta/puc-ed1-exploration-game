@@ -3,4 +3,8 @@
 
 // Handle reading the ASCII map file, creating the matrix, and initializing the board with all elements.
 
+#include "Map.h"
+
+Map* map_loader_load_from_file(const char *filename);
+
 #endif
